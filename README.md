@@ -4,7 +4,7 @@ In this project, I'm creating a simple Twitter Bot that will post tweets about m
 
 ## Get the data
 
-Using Web Scraping tools, I extracted data (title, release date, rate, image) from a [website](https://www.listchallenges.com/top-1000-movies-of-the-21st-century-tspdt) that lists the top 1000 movies of the 21st Century and stored everything into a [JSON file](https://github.com/NawfelBC/Twitter-Bot/blob/main/data.json).
+Using Web Scraping tools, I build a [scraper](https://github.com/NawfelBC/Twitter-Bot/blob/main/scraper.py) to extract data (title, release date, rate, image) from a [website](https://www.listchallenges.com/top-1000-movies-of-the-21st-century-tspdt) that lists the top 1000 movies of the 21st Century and stored everything into a [JSON file](https://github.com/NawfelBC/Twitter-Bot/blob/main/data.json).
 
 ## Build the bot
 
