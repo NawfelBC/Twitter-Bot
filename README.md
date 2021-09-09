@@ -21,6 +21,10 @@ The bot needs to run continuously, but not on our own machine. Therefore, we use
 <br><strong>Figure 1 : Screenshot of the bot</br></strong>
 </p>
 
+## Try it yourself
+
+If you want to try the bot, apply for a [Developer Account](https://developer.twitter.com/en/apply-for-access) to get your API keys, and insert them into the [KEYS.py](https://github.com/NawfelBC/Twitter-Bot/blob/main/KEYS.py) file. Then, run the [bot.py](https://github.com/NawfelBC/Twitter-Bot/blob/main/bot.py) file to host it locally. And that's it, here is your bot.
+
 ## Packages and Services used :
 - [Tweepy](https://www.tweepy.org/)  
 - [Bs4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)  
