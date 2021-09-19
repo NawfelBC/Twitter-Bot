@@ -14,7 +14,7 @@ Using Web Scraping tools, I build a [scraper](https://github.com/NawfelBC/Twitte
 
 ## Deploy the bot
 
-The bot needs to run continuously, but not on our own machine. Therefore, we use a platform called [Heroku](https://www.heroku.com) that allows us to deploy any app and run it. 
+The bot needs to run continuously, but not on our own machine. Therefore, we use a platform called [Heroku](https://www.heroku.com) that allows us to deploy any app and run it on a remote server. 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/79513906/132551693-62e8a8a1-e9b6-4e5e-8681-03e8f7771f19.PNG" width="350" height="550">
