@@ -1,4 +1,4 @@
-# Twitter Bot
+# <img src="https://user-images.githubusercontent.com/79513906/133940646-d0d40127-6465-46aa-9d11-10d29232d00d.gif" width="50" height="45"> Twitter Bot 
 
 In this project, I'm creating a simple Twitter Bot that will post tweets about movies every hour.
 
